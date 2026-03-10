@@ -5,3 +5,6 @@ A collection of console applications I have created using the C programming lang
 
 ## Games included
 - Hangman
+- Snakes and Ladders
+- Tic-Tac-Toe
+- Tower of Hanoi
