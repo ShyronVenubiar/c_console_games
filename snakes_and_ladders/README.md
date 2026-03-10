@@ -31,3 +31,10 @@ Among other things, I learned:
 - Debugging more complex processes
 
 Even though many things wourld be structured differently (and more modularly) today, this project shows well how I approached larger tasks.
+
+---
+
+## Project Structure
+The entire game is contained in a single main.c file, as it was one of my early projects.
+This was perfectly fine for the learning phase at the time - and I am deliberately leaving it that way to show the development status authentically.
+This project has deliberately not been refactored or modernized.
